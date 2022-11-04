@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open #style.html",
-            "file": "c:\\Users\\BMH2LSJ\\Documents\\MyCode\\17-Week\\UX_UI_HW_17\\CSS\\#style.html"
+            "file": "c:\\Users\\BMH2LSJ\\Documents\\MyCode\\18-Week\\UX_UI_HW_18\\CSS\\#style.html"
         }
     ]
 }
